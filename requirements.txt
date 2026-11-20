@@ -1,0 +1,5 @@
+streamlit>=1.38,<2
+pypdf>=5,<7
+openai>=1.50,<3
+chromadb>=1.0,<2
+python-dotenv>=1,<2
